@@ -1,0 +1,65 @@
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.Form1.resources
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\практика\Dip\Dip\bin\Debug\Dip.exe
+D:\практика\Dip\Dip\bin\Debug\Dip.pdb
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\практика\Dip\Dip\obj\x86\Debug\Dip.pdb
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.exe
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.pdb
+F:\практика\Dip\Dip\bin\Debug\Dip.exe
+F:\практика\Dip\Dip\bin\Debug\Dip.pdb
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.Form1.resources
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+F:\практика\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.pdb
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\практика\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\практика\старая прграмма\Dip\Dip\bin\Debug\Dip.exe
+D:\практика\старая прграмма\Dip\Dip\bin\Debug\Dip.pdb
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.pdb
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\дипломка\старая прграмма\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\дипломка\старая прграмма\Dip\Dip\bin\Debug\Dip.exe
+D:\дипломка\старая прграмма\Dip\Dip\bin\Debug\Dip.pdb
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.pdb
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\дипломка\пр 2 вариант\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\дипломка\пр 2 вариант\Dip\Dip\bin\Debug\Dip.exe
+D:\дипломка\пр 2 вариант\Dip\Dip\bin\Debug\Dip.pdb
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.pdb
+D:\дипломка\дип программа\Dip\Dip\bin\Debug\Dip.exe
+D:\дипломка\дип программа\Dip\Dip\bin\Debug\Dip.pdb
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\дипломка\дип программа\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.exe
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.pdb
+D:\дипломка\программа\Dip\Dip\bin\Debug\Dip.exe
+D:\дипломка\программа\Dip\Dip\bin\Debug\Dip.pdb
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.csprojResolveAssemblyReference.cache
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+D:\дипломка\программа\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.Cache
+F:\Work\Development\Projects\Dip\Dip\bin\Debug\Dip.exe
+F:\Work\Development\Projects\Dip\Dip\bin\Debug\Dip.pdb
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.csprojAssemblyReference.cache
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.MOB.resources
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.Properties.Resources.resources
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.csproj.GenerateResource.cache
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.csproj.CoreCompileInputs.cache
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.exe
+F:\Work\Development\Projects\Dip\Dip\obj\x86\Debug\Dip.pdb
